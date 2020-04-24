@@ -21,3 +21,57 @@
     cursor: pointer;
     
 }
+.cat1{
+    background-color: #ff136f;
+    padding: 10px 25px;
+    border-radius: 10px;
+}
+.cat2{
+   background-color: olivedrab;
+   padding: 10px 25px;
+   border-radius: 10px;
+}
+.cat3{
+    background-color: darkblue;
+    padding: 10px 5px;
+    border-radius: 10px;
+    m
+}
+.cat4{
+    background-color: darkmagenta;
+    padding: 10px 5px;
+    border-radius: 10px;
+}
+.cat5{
+    background-color: gold;
+    padding: 10px 5px;
+    border-radius: 10px;
+}
+.cat6{
+    background-color: maroon;
+    height: 68px;
+    padding: 10px 25x 10px 25px;
+    border-radius: 10px;
+}
+.categories h3{
+     color: wheat;
+}
+.categories img{
+    width: 100px;
+    height: 50px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px;
+}
+#subscribe{
+    height: 300px;
+    background-color: lightsalmon ;
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
+}
